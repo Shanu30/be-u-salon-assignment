@@ -1,0 +1,38 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "name": "shoes"
+    },
+    {
+      "id": 2,
+      "name": "book"
+    },
+    {
+      "id": 3,
+      "name": "pen"
+    },
+    {
+      "id": 4,
+      "name": "perfume"
+    },
+    {
+      "id": 5,
+      "name": "socks"
+    },
+    {
+      "id": 6,
+      "name": "jeans"
+    },
+    {
+      "id": 7,
+      "name": "shirt"
+    }
+  ],
+  "cart": [
+    {
+      "name": "book",
+      "id": 2
+    }
+  ]
+}
